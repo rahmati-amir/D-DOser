@@ -4,7 +4,7 @@
 
 
 
-Kali Linux :
+#Kali Linux :
 ```
 sudo apt install git
 ```
@@ -18,10 +18,10 @@ git clone https://github.com/rahmati-amir/D-DOser
 ls
 ```
 ```
-cd D-DOS/
+cd D-DOser
 ```
 ```
-python3 ddos.py
+python3 ddos-ahr.py
 ```
 
 Termux :
@@ -35,16 +35,16 @@ pkg install python
 pkg install python3
 ```
 ```
-git clone https://github.com/AmirHacKer13/D-DOS
+git clone https://github.com/rahmati-amir/D-DOser
 ```
 ```
 ls
 ```
 ```
-cd D-DOS/
+cd D-DOser
 ```
 ```
-python3 ddos.py
+python3 ddos-ahr.py
 ```
 ## 👨‍🏭 Authors
 
