@@ -4,7 +4,7 @@
 
 
 
-#Kali Linux :
+# Kali Linux :
 ```
 sudo apt install git
 ```
@@ -24,7 +24,7 @@ cd D-DOser
 python3 ddos-ahr.py
 ```
 
-Termux :
+# Termux :
 ```
 pkg install git
 ```
